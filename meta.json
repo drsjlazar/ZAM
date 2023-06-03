@@ -1,1 +1,24 @@
-
+{
+    "info": {
+        "url_png_icon_64x64": "https://www.missionzambia.org/wp-content/uploads/2023/06/logo-small.png",
+        "url_png_logo": "https://www.missionzambia.org/wp-content/uploads/2023/06/logo-medium.png",
+        "location": "Lusaka, Zambia",
+        "social": {
+            "twitter_handle": "@missionzampool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "https://www.youtube.com/channel/UC46wdNgT_hudZVR8BFwxtsw",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$missionzambia"
+        },
+        "about": {
+            "me": "We are a single mission stake pool based in Zambia. Our mission is to promote Cardano and the surrounding ecosystem in Zambia and Africa and at the same time help the needy in our community where we can. Our current charitable focus is in supporting orphanages in Zambia.",
+            "company": "",
+            "verification": ""
+        }
+    }
+}
