@@ -1,1 +1,7 @@
-
+{
+"name": "Mission Zambia Stake Pool",
+"description": "A mission stake pool aiming to promote Cardano in Zambia.",
+"ticker": "ZAM",
+"homepage": "https://missionzambia.org",
+"extended": "https://raw.githubusercontent.com/drsjlazar/ZAM/main/meta.json"
+}
