@@ -7,7 +7,7 @@
             "twitter_handle": "@missionzampool",
             "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "https://www.youtube.com/channel/UC46wdNgT_hudZVR8BFwxtsw",
+            "youtube_handle": "UC46wdNgT_hudZVR8BFwxtsw",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": "",
@@ -17,7 +17,6 @@
         },
         "about": {
             "me": "We are a single mission stake pool based in Zambia. Our mission is to promote Cardano and the surrounding ecosystem in Zambia and Africa and at the same time help the needy in our community where we can. Our current charitable focus is in supporting orphanages in Zambia by donating 40% of our earnings.",
-            "company": "",
             "verification": ""
         }
     }
